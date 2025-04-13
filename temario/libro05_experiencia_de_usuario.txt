@@ -1,0 +1,672 @@
+﻿_LIBRO
+Nociones básicas de Experiencia de Cliente
+_CAPITULO
+Introducción a la Experiencia de Cliente
+
+
+_INFORMACION
+La Experiencia de Cliente es importante porque:
+* Impacta directamente en la retención y fidelización de los clientes
+* Permite diferenciar a una empresa y genera ventajas competitivas sostenibles en un mercado liberalizado
+* Contribuyen directamente a la rentabilidad y crecimiento del negocio
+* Afecta la decisión de elección del cliente, y su lealtad a largo plazo
+
+
+_INFORMACION
+La Experiencia de Cliente es el conjunto de percepciones, emociones y sensaciones que una persona experimenta en todas las interacciones con una empresa, durante todo el ciclo de vida de su relación.
+La Experiencia de Cliente implica aspectos emocionales, como la satisfacción, la confianza y la conexión emocional con la marca, así como aspectos prácticos, como la calidad del producto, la eficiencia del servicio y la facilidad de uso.
+La Experiencia de Cliente implica un enfoque más estratégico y a largo plazo, busca construir relaciones sólidas y duraderas con los clientes y generar lealtad.
+
+
+_INFORMACION
+La Experiencia de Cliente incluye desde el primer contacto, hasta el servicio posventa.
+
+
+_INFORMACION
+La Experiencia de Cliente se ve afectada no solo por el trato directo, sino también por factores externos como proveedores, servicios subcontratados, reseñas, opiniones de amigos y familiares, y la reputación de marca.
+
+
+_INFORMACION
+Atención al cliente
+	Experiencia de Cliente
+	Depende de un área concreta.
+	Involucra a toda la organización.
+	Reactiva. Se aplica en un momento concreto, en que el cliente necesita una solución.
+	Proactiva. Está presente desde el diseño del servicio hasta la atención posventa.
+	Un solo canal
+	En todos los canales
+	Busca resolver necesidades inmediatas y problemas de los clientes.
+	Busca la satisfacción del cliente y anticipación de sus necesidades
+	Basada en la calidad
+	Basada en emociones
+	
+
+_INFORMACION
+Todos los puntos de contacto con el cliente son oportunidades para que las interacciones contribuyan positivamente a la percepción general de los clientes. Por ello, la Experiencia de Cliente implica diseñar cuidadosamente todos estos puntos de contacto, durante todo el ciclo de vida del contacto con el cliente.
+
+
+_INFORMACION
+La Experiencia de Cliente engloba muchos aspectos y herramientas, siendo la atención al cliente una de ellas.
+
+
+_INFORMACION
+La atención al cliente implica la implementación de sistemas de soporte, como líneas telefónicas de atención al cliente, chat en línea, correo electrónico de soporte y otros servicios de asistencia técnica, con el objetivo de garantizar que los clientes reciban respuestas rápidas y soluciones efectivas. La atención al cliente tiene un enfoque mucho más operativo.
+
+
+_INFORMACION
+Es muy importante trabajar la estrategia de Experiencia de Cliente en las organizaciones por varios motivos:
+* Sensibilizar a toda la organización en la importancia de orientar la compañía hacia el cliente y ponerle en el centro de las decisiones.
+* Generar una visión homogénea y las mejores prácticas a nivel internacional.
+* Implicar a todo el mundo en la transformación de la organización hacia la experiencia, identificando el rol personal y la contribución a la consecución de este objetivo.
+* Conocer las principales herramientas y claves que se pueden aplicar en el día a día, en función de cada responsabilidad y funciones, para contribuir al objetivo de involucrar la mirada de toda la compañía hacia el cliente.
+* Modelo de acompañamiento y medición de resultados con el objetivo de una mejora continua que se transforme en rentabilidad sostenible.
+
+
+_INFORMACION
+1900 - Era de la producción
+Enfoque en eficiencia, producción en masa, estandarización de productos, optimización de procesos. Liderada por visionarios como Henry Ford y Boeing. Se dio reducción de costes y proliferación de bienes asequibles para las masas.
+
+
+_INFORMACION
+1960 - Era de la distribución
+Enfoque en accesibilidad y globalización. Liderada por gigantes minoristas como Walmart y marcas automotrices como Toyota. Se aprovecharon al máximo los avances en logística y transporte. La clave era llevar los productos a los consumidores de la manera más eficiente posible. Surgieron cadenas de suministro globales. La competencia en precio era un principal impulsor del éxito empresarial.
+
+
+_INFORMACION
+1990  Era de la información
+Acceso y gestión de datos. Personalización. Surgieron empresas como Amazon y Google, que capitalizaron la información para satisfacer las necesidades individuales de los consumidores. Las empresas empezaron a recopilar datos sobre sus clientes de manera más sistemática, loque les permitió comprender mejor sus comportamientos y preferencias, y ofrecer productos y servicios más personalizados.
+
+
+_INFORMACION
+2010 - Era del cliente
+Atención sin precedentes a las demandas y expectativas de los consumidores. 
+Empresas representativas: Macy's, Salesforce y Amazon, que priorizaron la satisfacción del cliente como principio rector de sus operaciones. Esta época se destacó por la importancia de la Experiencia de Cliente y la creación de relaciones duraderas, donde las empresas se esforzaron por comprender y anticipar las necesidades de sus clientes, construyendo una reputación basada en la confianza y la lealtad.
+
+
+_INFORMACION
+Actualidad - Era de las experiencias
+Lo importante esla capacidad de una marca para crear conexiones emocionales profundas con sus clientes. La calidad del servicio y la Experiencia de Cliente son los pilares del éxito empresarial.
+En un panorama saturado de opciones, los consumidores buscan algo más que simplemente un producto o servicio; buscan experiencias.
+Empresa representativa: Starbucks.
+
+
+
+
+_LIBRO
+Nociones básicas de Experiencia de Cliente
+_CAPITULO
+Fundamentos de la Experiencia de Cliente
+
+
+_INFORMACION
+Los elementos clave de la Experiencia de Cliente son:
+* La marca
+* El producto o servicio
+* Interacciones a lo largo de todo el ciclo de vida
+   * Accesibilidad y facilidad de uso
+   * Personalización y relevancia
+   * Consistencia
+* Comunicación clara y honesta
+
+
+_INFORMACION
+La marca (elemento clave de la Experiencia de Cliente)
+* No es solo el nombre, el logotipo o el eslogan.
+* Es la percepción que tiene el cliente, construida a través de sus propias vivencias, opiniones ajenas, reputación y coherencia entre lo que la marca promete y lo que realmente ofrece.
+* Coherencia: Todas las interacciones deben reflejar los valores y la identidad de la marca
+* Como dijo Scott Cook: “Las marcas no son lo que dicen que son, sino lo que los clientes dicen que son”.
+
+
+_INFORMACION
+El producto o servicio (elemento clave de la Experiencia de Cliente)
+* La calidad, la innovación y la relevancia (utilidad) del producto determinan si el cliente percibe que ha recibido un valor real.
+
+
+_INFORMACION
+Interacciones a lo largo de todo el ciclo de vida del cliente (elemento clave de la Experiencia de Cliente)
+* Cada punto de contacto cuenta: desde una llamada al servicio de atención hasta una compra online o una visita presencial.
+* Toda interacción es una oportunidad de crear valor… o de destruirlo.
+* Elementos fundamentales dentro de este punto:
+   * Accesibilidad y facilidad de uso
+* El cliente espera procesos simples y fluidos: desde navegar por la web hasta realizar una devolución.
+* La fricción o la confusión generan frustración.
+* Personalización y relevancia
+* Hoy se espera que las empresas conozcan y reconozcan al cliente.
+* Recomendaciones, ofertas o mensajes adaptados a sus preferencias aumentan el compromiso y la lealtad.
+* Consistencia
+* El cliente debe sentir que siempre recibe el mismo nivel de servicio, sin importar el canal o el momento.
+
+
+_INFORMACION
+Comunicación clara y honesta (elemento clave de la Experiencia de Cliente)
+* Evitar tecnicismos innecesarios o promesas ambiguas
+* Una empresa que escucha activamente y comunica de forma transparente construye confianza.
+
+
+_INFORMACION
+Un objetivo constante, al cual apuntan muchas de las acciones y estrategias de la Experiencia de Cliente, es fortalecer la conexión emocional entre el cliente y la marca, aumentando la satisfacción y la lealtad a largo plazo.
+
+
+_INFORMACION
+Las etapas del ciclo de vida del cliente son:
+* Atracción: El cliente aún no ha comprado, pero ya empieza a formarse una opinión. Campañas publicitarias, redes sociales, opiniones y contenidos informativos son clave para captar su atención.
+* Adquisición: Se produce la primera compra o contratación des servicio. Es crucial que la experiencia sea positiva y sencilla, ya que sienta las bases para una relación duradera.
+* Retención y compromiso: Incluye todo lo que se hace para mantener al cliente activo y satisfecho tras la compra. Puede incluir atención postventa, ofertas personalizadas, comunicaciones periódicas, descuentos para clientes frecuentes, participación en programas de recompensas. Esta etapa sirve para recopilar retroalimentación del cliente.
+* Fidelización: Es el momento en que el cliente ya confía plenamente en la marca. No solo repite compras, sino que también la recomienda. Se convierte en embajador de la marca, lo cual genera crecimiento orgánico y reputación.
+
+
+_INFORMACION
+Factores que influyen en la experiencia del cliente:
+* Empatía
+* Personalización
+* Comunicación Efectiva
+* Resolución de problemas
+Estos factores no solo influyen en lo emocional, sino también en lo práctico y en los resultados del negocio: aumentan la satisfacción, la recomendación y la repetición de compra.
+
+
+_INFORMACION
+Empatía (factor que influye en la Experiencia de Cliente)
+* Consiste en ponerse en el lugar del cliente, comprender sus emociones y necesidades.
+* Genera confianza, cercanía y satisfacción.
+
+
+_INFORMACION
+Personalización (factor que influye en la Experiencia de Cliente)
+* Cada cliente es único, con necesidades y preferencias individuales.
+* Personalización implica adaptar comunicaciones, servicios o propuestas a cada perfil o comportamiento.
+
+
+_INFORMACION
+Comunicación efectiva (factor que influye en la Experiencia de Cliente)
+* Se debe mantener una comunicación clara, transparente y proactiva para evitar malentendidos y construir una relación de confianza.
+* Proporcionar información relevante y actualizada sobre productos, servicios y políticas, así como comunicar cualquier cambio o problema de manera oportuna y profesional.
+* También implica escuchar actiamente las preocupaciones y comentarios del cliente.
+
+
+_INFORMACION
+Resolución de problemas (factor que influye en la Experiencia de Cliente)
+* Los problemas se deben resolver de manera rápida y efectiva.
+* Se deben escuchar las preocupaciones del cliente con atención, y mostrar disposición para encontrar soluciones satisfactorias.
+* Las experiencias negativas se pueden convertir en positivas. ¡Son oportunidades para fortalecere la relación! 
+
+
+
+
+_LIBRO
+Nociones básicas de Experiencia de Cliente
+_CAPITULO
+Diseño y Gestión de la Experiencia de Cliente
+
+
+_INFORMACION
+Renfe se apoya en metodologías y herramientas que combinan tanto enfoques cuantitativos como cualitativos para gestionar y diseñar activamente la Experiencia de Cliente. Las herramientas permiten recoger, medir, analizar y actuar sobre la percepción y opiniones de los clientes.
+
+
+_INFORMACION
+Investigación cuantitativa
+* Busca muestras representativas y usa estadísticas
+* Usa herramientas como encuestas numéricas y análisis de datos estadísticos.
+* Permite medir resultados de forma objetiva y representar la situación mediante estadísticas.
+
+
+_INFORMACION
+Investigación cualitativa
+* Persigue analizar el porqué de lo que está pasando.
+* Emplea ambientes naturales.
+* Busca significado en la información recogida.
+* Usa herramientas como: encuestas abiertas, entrevistas, focus groups, mystery shopping.
+* Busca analizar emociones, percepciones y aspectos no evidentes a través de respuestas abiertas y contextos reales.
+
+
+_INFORMACION
+En las entrevistas se busca conocer en mayor profundidad a los clientes.
+
+
+_INFORMACION
+Los focus groups consisten en la reunión de un conjunto de clientes con el objetivo de generar una discusión y un espacio de diálogo donde puedan surgir ideas de mejora de los productos o servicios.
+
+
+_INFORMACION
+Los mystery shoppings buscan obtener información de primera línea para evaluar la calidad percibida por los diferentes clientes y averiguar el grado de satisfacción, calidad o seguimiento de protocolos de atención. Esta técnica es abordada en incógnito por la empresa.
+
+
+_INFORMACION
+Objetivo de las herramientas para el diagnóstico de la Experiencia de Cliente
+* Obtener una visión profunda de cómo viven los clientes su relación con la empresa
+* Tratan de comprender y mejorar la percepción de los clientes al relacionarse con la empresa y sus productos o servicios.
+* Detectar puntos críticos, oportunidades de mejora y momentos clave.
+* Diseñar experiencias que sean coherentes, personalizadas y memorables.
+* Tomar decisiones estratégicas basadas en evidencias reales.
+
+
+_INFORMACION
+Los arquetipos de clientes son una ficha visual que ayuda a empatizar con los clientes de una compañía, entendiendo cómo son y qué viven en su relación con la empresa.
+
+
+_INFORMACION
+Los arquetipos de clientes permiten identificar:
+* Elementos de conexión y desconexión
+* Momentos clave de la relación
+
+
+_INFORMACION
+Los arquetipos de clientes describen en profundidad a los diferentes grupos de clientes en base a:
+* Comportamientos
+* Motivaciones
+* Necesidades
+* Expectativas
+* Preocupaciones
+* Personalidad
+
+
+_INFORMACION
+Tradicioinalmente se ha segmentado siempre en base a datos demográficos (edad, sexo, ciudad…). A diferencia de la segmentación tradicional, los arquetipos profundizan más allá de esos parámetros. Se centran en necesidades, expectativas y modo de vida.
+
+
+_INFORMACION
+Objetivo de los arquetipos de clientes:
+* Ofrecer una experiencia adaptada y personalizada a cada tipo de cliente, sin importar con quién interactúe durante su relación con la marca.
+* Diseñar experiencias significativas, teniendo en cuenta sus expectativas, preocupaciones y preferencias.
+* Crear propuestas de valor definidas específicamente para cada arquetipo.
+* Ofrecer una experiencia diferencial y memorable.
+
+
+_INFORMACION
+El Pasillo del Cliente es una herramienta que sirve para representar gráficamente el detalle de la relación que viven los clientes con la compañía, a lo largo del tiempo y a través de todos los canales.
+Básicamente, se trata de una representación detallada del viaje del cliente, analizando cada momento (acciones que el cliente realiza y que influyen en su experiencia) por el que atraviesa para conseguir un determinado objetivo: comprar, solicitar información, consumir el producto o servicio, realizar un cambio o poner una reclamación, entre otros.
+
+
+
+
+_INFORMACION
+El Pasillo del Cliente permite:
+* Detectar los elementos críticos en la relación con el cliente en el presente, comprendiendo su impacto en la satisfacción, prescripción, lealtad y vinculación.
+* Diagnosticar la experiencia desde la perspectiva del cliente, evaluando tanto cualitativa como cuantitativamente dónde enfocar esfuerzos y desarrollar acciones de mejora.
+
+
+_INFORMACION
+Los MOMENTOS son las acciones que el cliente realiza y que influyen en su experiencia.
+
+
+_INFORMACION
+Tipos de momentos:
+* Momentos de la verdad: Son aquellas interacciones que generan mayor impacto y recuerdo en la mente del cliente, ya sea positiva o negativamente.
+* Momentos WOW: Son aquellos momentos diferenciales en los que el cliente ve superadas sus expectativas.
+* Momentos de dolor: Son aquellas experiencias que generan un malestar o descontento en los clientes. Es clave detectarlos para poder incorporar mejoras.
+
+
+_INFORMACION
+Elementos que incorpora el Pasillo del Cliente:
+* Touchpoints o puntos de contacto
+* Secuencia de interacciones: una lógica secuencial de interacciones, desde que el cliente descubre su necesidad, hasta que logra alcanzar su objetivo
+* Expectativas en cada interacción: qué esperan los clientes
+* Emociones que el cliente experimenta en sus interacciones con la compañía
+* Nivel de experiencia: escalas numéricas que se establecen para evaluar la experiencia vivida en cada interacción
+* Canal: el medio por el cual se relacionan los clientes en cada interacción
+* Momentos clave
+
+
+_INFORMACION
+El Mapa de procesos (Service Blueprint) es una herramienta que permite visualizar de forma clara y detallada todo lo que ocurre “por dentro” de la empresa para ofrecer un servicio al cliente. Es una técnica de análisis holístico, porque considera al mismo tiempo dos cosas:
+* Lo que vive y experimenta el cliente. Quiere ver las cosas desde la perspectiva del cliente.
+* Lo que sucede a nivel interno en la compañía (personas, procesos, protocolos, barreras).
+
+
+_INFORMACION
+El Mapa de procesos (Service Blueprint) tiene como objetivo:
+* La alineación entre la Experiencia de Cliente y los procesos internos de la compañía. Que todo lo que hace la empresa por dentro esté realmente facilitando una experiencia de calidad por fuera.
+Este enfoque simultáneo permite identificar áreas de mejora y oportunidades de optimización que beneficien a ambas partes.
+
+
+_INFORMACION
+Objetivos del Mapa de procesos:
+* Detectar qué personas, actividades y procesos internos influyen en la experiencia de cliente. El rol e impacto en el cliente.
+* Evaluar los protocolos y su implantación.
+* Localizar obstáculos internos que dificultan una mejor entrega de la Experiencia.
+* Analizar la gestión de cada uno de los MOMENTOS y proponer acciones de mejora, a nivel de personas, procesos, soporte y comunicación.
+* Obtener una visión 360º de los momentos críticos que vive el cliente con la compañía, (en cada uno de los puntos de contacto), incorporando la visión del empleado y su propia vivencia.
+
+
+_INFORMACION
+Programa o modelo de Voz de Cliente: 
+* Ha evolucionado para pasar de un modo pregunta/respuesta a modelos conversacionales
+* Permite a la empresa escuchar y conversar con el cliente para conocerle y adaptarse a sus necesidades en tiempo real y superar sus espectativas
+* Es una herramienta de transformación organizacional.
+* Se enfoca en establecer los canales para canalizar las opiniones de los clientes.
+* Va más allá de tener una herramienta de escucha; es una herramienta de gestión.
+
+
+_INFORMACION
+Qué NO es un programa de Voz de Cliente:
+* No es hacer encuestas
+* No es diseñar cuestionarios interminables
+* No es investigación de mercados
+* No es completar una muestra
+* No es sobre lo que a la compañía le interesa saber, sino sobre lo que el cliente le importa compartir
+
+
+_INFORMACION
+Pasos imprescindibles para construir un modelo de Voz de Cliente sólido:
+* Definir un marco estratégico de medición: seleccionar las herramientas cuantitativas y cualitativas que se utilizarán según los objetivos y las fuentes disponibles en la compañía
+* Capturar información verdaderamente accionable
+* Asegurar el “Close The Loop”: cerrar el ciclo de retroalimentación garantizando que se tomen medidas adecuadas en respuesta a los comentarios, quejas o sugerencias de los clientes
+* Contar con una tecnología adecuada que permita desarrollar un programa de Voz de Cliente potente y avanzado
+
+
+_INFORMACION
+Diferencia entre métrica y KPI:
+* Una métrica es una medida cuantitativa del grado en que una estrategia, sistema, componente o proceso cumple un atributo dado.
+* Un KPI (Key Performance Indicator) es un tipo especial de métrica que debe estar alineada con una estrategia de comprensión del negocio.
+
+
+_INFORMACION
+KPIs más relevantes en Experiencia de Cliente:
+1. NPS (Net Promoter Score)
+2. CES (Customer Effort Score)
+
+
+_INFORMACION
+1. NPS (Net Promoter Score)
+* Mide la propensión a la recomendación de los clientes.
+* Se pregunta: “¿Con qué probabilidad recomendaría el producto o servicio a un familiar o amigo?”
+* Escala de 0 a 10: 
+   * 9-10 → Promotores
+   * 7-8 → Pasivos o neutrales
+   * 0-6 → Detractores
+* El cálculo: % Promotores - % Detractores
+* El resultado varía entre -100% y 100%
+* Debe ir acompañado de un campo abierto para que el cliente explique su puntuación
+
+
+_INFORMACION
+2. CES (Customer Effort Score)
+* Mide el esfuerzo que el cliente debe hacer para interactuar con la empresa
+* Se formula como: “¿Cuánto esfuerzo personal le ha supuesto resolver su problema?”
+* Aplicable también a otras acciones: hacer una compra, encontrar información, realizar un cambio, etc.
+* Muy utilizado en entornos digitales como apps y páginas web
+
+
+_INFORMACION
+Además de los KPIs, la Experiencia de Cliente se basa en emociones. Por eso es fundamental analizar y escuchar verdaderamente la voz de los clientes.
+
+
+_INFORMACION
+Analizar la voz de los clientes implica analizar comentarios abiertos, conversaciones y demás comentarios desestructurados. Gracias a avances tecnológicos recientes e Inteligencia Artificial existen herramientas que nos permiten aquello, como:
+* “speech analytics”
+* “text mining”
+Estas herramientas permiten:
+* Analizar comentarios abiertos y conversaciones
+* Tipificar las experiencias en positivas, negativas o neutras
+* Automatizar acciones de mejora en función del análisis
+
+
+ 
+_LIBRO
+Nociones básicas de Experiencia de Cliente
+_CAPITULO
+Cultura de servicio y Orientación al cliente
+
+
+_INFORMACION
+Definición de la cultura centrada en el cliente:
+* Conjunto de valores y comportamientos compartidos por todos los miembros de una organización que guían las decisiones y acciones hacia la satisfacción de las necesidades y expectativas de los clientes.
+* Es una filosofía organizacional que coloca al cliente en el centro de todas las decisiones y procesos.
+
+
+_INFORMACION
+Objetivos de una cultura centrada en el cliente:
+* Crear valor para el cliente de forma consistente
+* Fomentar relaciones duraderas basadas en la confianza y la empatía
+* Generar experiencias positivas y memorables
+
+
+_INFORMACION
+Para lograr los objetivos de la cultura centrada en el cliente es necesario:
+* Involucrar a todos los niveles de la organización
+* Promover la escucha activa del cliente
+* Fomentar la colaboración entre departamentos
+* Reconocer y recompensar comportamientos alineados con la orientación al cliente
+
+
+_INFORMACION
+Las palancas del Plan Estratégico del Grupo Renfe son:
+* Transformación digital: Incorporat tecnologías para mejorar procesos, servicios y experiencia de cliente.
+* Transformación cultural: Cambiar la mentalidad interna, fomentar la orientación al cliente y el trabajo colaborativo.
+* Alianzas estratégicas: Colaboraciones con otras empresas y organismos para crecer y mejorar competitividad.
+
+
+_INFORMACION
+Los pilares estratégicos del Plan Estratégico del Grupo Renfe son:
+* Foco en el cliente (eje central)
+* Internacionalización
+* Eficiencia y seguridad
+
+
+_INFORMACION
+Los clientes deben percibir que quienes les atienden:
+* Entienden sus necesidades
+* Se preocupan por ellos
+* Tienen predisposición para ayudar
+* Aunque no se pueda resolver un problema por completo en ese momento, es clave que el cliente sienta que se hace todo lo posible para ayudarle.
+
+
+_INFORMACION
+Elementos que facilitan la comunicación y mejoran el desempeño del trabajo de los profesionales que están en contacto directo con los clientes:
+* Habilidades sociales
+* Escucha atenta
+* Observación reactiva
+* Empatía
+* Técnicas de acercamiento al cliente
+
+
+_INFORMACION
+Elementos interpersonales y comunicativos, englobados dentro de las habilidades sociales, que afectan la forma en que se entabla la relación personal con el cliente:
+* Actitud
+* Definición de voz
+* Postura corporal
+* Lenguaje
+* Sonrisa
+* Buena imagen
+
+
+_LIBRO
+Nociones básicas de Experiencia de Cliente
+_CAPITULO
+Experiencia de Cliente Digital
+
+
+_INFORMACION
+La Experiencia de Cliente Digital es la interacción entre el cliente y la empresa a través de tecnologías digitales como webs, apps, redes sociales, e-commerce y dispositivos inteligentes.
+
+
+_INFORMACION
+Es fundamental garantizar la omnicanalidad, es decir, ofrecer una experiencia unificada y coherente en todos los canales, tanto digitales como presenciales.
+
+
+_INFORMACION
+La Experiencia de Usuario (UX) es un componente central en el desarrollo de productos y servicios digitales en la actualidad. En un contexto donde la interacción con la tecnología es constante (apps, webs, plataformas), la calidad de la UX es clave para el éxito.
+
+
+_INFORMACION
+La UX abarca varias disciplinas que trabajan juntas para lograr que los productos sean intuitivos, eficientes y satisfactorios:
+* Diseño de interfaces
+* Usabilidad
+* Accesibilidad
+* Investigación de usuarios
+
+
+_INFORMACION
+La UX permite:
+* Diseñar productos y entornos digitales considerando el comportamiento y las emociones de los usuarios
+* Comprender y analizar el éxito o fracaso de las soluciones
+* Crear experiencias inspiradoras, agradables y atractivas
+* Diseñar soluciones con navegación sencilla e intuitiva
+
+
+_INFORMACION
+Importante: la UX no es lo mismo que la usabilidad. Un producto puede ser usable pero no ofrecer una buena experiencia de usuario. La UX abarca más dimensiones: atractivo visual, accesibilidad, cercanía, originalidad, entre otros.
+
+
+_INFORMACION
+La tecnología tiene un papel fundamental en la transformación de la Experiencia de Cliente, ya que cambia la forma en que las empresas interactúan, entienden y atienden a sus clientes.
+
+
+_INFORMACION
+Herramientas tecnológicas clave para la Experiencia de Cliente:
+* Inteligencia Artificial (IA)
+* Chatbots
+* Personalización basada en datos
+* Soluciones digitales innovadoras
+
+
+_INFORMACION
+Las tecnologías usadas para Experiencia de Cliente ayudan a mejorar:
+* La satisfacción del cliente
+* La eficiencia operativa
+* La toma de decisiones
+* La automatización de procesos
+
+
+_INFORMACION
+Definición de Inteligencia Artificial:
+La Inteligencia Artificial es la capacidad de las máquinas para realizar tareas que normalmente requieren inteligencia humana. Incluye el aprendizaje, la adaptación, la comprensión del lenguaje natural y el procesamiento eficiente de grandes volúmenes de datos.
+
+
+_INFORMACION
+Aplicaciones reales de la Inteligencia Artificial:
+* Netflix: usa IA para analizar el historial de visualización y ofrecer recomendaciones personalizadas, mejorando la satisfacción y la retención.
+* Bank of America: emplea chatbots con IA para resolver consultas bancarias comunes y ayudar al cliente en tiempo real, sin intervención humana.
+* Ikea: su Asistente Virtual guía a los clientes en la búsqueda de productos, diseño de espacios y planificación de compras, generando una experiencia personalizada y asistida.
+* Amazon: utiliza IA para analizar compras y navegación, y así ofrecer recomendaciones personalizadas en su plataforma de e-commerce.
+* Starbucks: su programa de fidelización usa datos de consumo para ofrecer ofertas y recompensas adaptadas a cada cliente, fomentando la lealtad.
+
+
+_INFORMACION
+La personalización basada en datos permite a las empresas ofrecer experiencias ajustadas a las necesidades, preferencias y comportamientos de cada cliente.
+
+
+
+
+
+
+
+
+_LIBRO
+Nociones básicas de Experiencia de Cliente
+_CAPITULO
+Resolución de problemas y fidelización del cliente
+
+
+_INFORMACION
+Estrategias para la resolución de problemas y conflictos con clientes
+* Escucha activa
+* Mantener la calma
+* Asumir responsabilidad y reconocer el problema
+* Ofrecer soluciones creativas
+* Proporcionar un punto de contacto directo
+
+
+_INFORMACION
+Escucha activa:
+* No interrumpir: dejar que el cliente se exprese completamente.
+* Validar sus sentimientos: reconocer sus emociones y mostrar empatía.
+* Repetir lo que han dicho: parafrasear para confirmar que se ha entendido bien.
+* Hacer preguntas clarificadoras: para obtener más información y aclarar la situación.
+
+
+_INFORMACION
+Mantener la calma:
+* Respirar profundamente y relajarse antes de actuar.
+* Hablar en un tono calmado y amable, incluso si el cliente está molesto.
+* No tomarlo como algo personal: el cliente está molesto con la situación, no con la persona que lo atiende.
+
+
+_INFORMACION
+Asumir la responsabilidad y reconocer el problema:
+* Ofrecer disculpas sinceras por el inconveniente.
+* Proporcionar soluciones concretas que restauren la satisfacción del cliente.
+* Tomar medidas correctivas para evitar que el problema se repita.
+
+
+_INFORMACION
+Ofrecer soluciones creativas:
+* Ir más allá de las opciones estándar y buscar alternativas que satisfagan al cliente.
+
+
+_INFORMACION
+Proporcionar un punto de contacto directo:
+* Ofrecer una vía clara de comunicación para futuros problemas o dudas.
+
+
+_INFORMACION
+Al recibir una queja o reclamación, el primer paso es tomar la queja en serio y reconocer la validez de las preocupaciones del cliente. Ignorarlas o minimizarlas puede empeorar la situación.
+
+
+_INFORMACION
+Formas de demostrar que una queja se toma en serio:
+* Escucha empática: atender activamente al cliente y mostrar comprensión.
+* Validar las emociones: reconocer lo que siente el cliente, aunque no se esté de acuerdo.
+* Agradecer la retroalimentación: valorar el tiempo que el cliente ha dedicado a expresar su experiencia.
+
+
+_INFORMACION
+Es crucial responder de forma rápida y proactiva para evitar que la situación escale.
+Estrategias para una respuesta rápida y eficaz:
+* Establecer procedimientos claros: definir bien los pasos y tiempos de respuesta.
+* Designar un punto de contacto: asignar a una persona o equipo responsable.
+* Comunicación transparente: mantener informado al cliente y dar plazos realistas.
+
+
+_INFORMACION
+Cuando no es posible resolver la queja en el primer contacto, debe escalarse a un nivel superior. Una buena resolución incluye:
+* Ofrecer compensaciones reglamentarias cuando corresponda.
+* Corregir el error de fondo para evitar su repetición.
+* Hacer seguimiento para confirmar la satisfacción del cliente y ofrecer apoyo adicional si es necesario.
+
+
+_INFORMACION
+Una queja bien gestionada no solo resuelve el problema puntual, sino que brinda una oportunidad de mejora continua para la empresa.
+Estrategias para mejorar a partir de las quejas:
+* Analizar tendencias para detectar patrones recurrentes.
+* Capacitar al personal en la gestión de quejas.
+* Recoger retroalimentación del cliente sobre cómo se manejó su reclamación y usar esa información para optimizar procesos.
+
+
+_INFORMACION
+La recuperación del servicio consiste en los procesos y estrategias para resolver problemas o contratiempos de forma efectiva y satisfactoria para el cliente. Su correcta gestión puede impactar significativamente en la percepción del cliente y en su decisión de continuar o no con la empresa.
+
+
+_INFORMACION
+Aspectos clave de la recuperación del servicio:
+* Reconocimiento del error: admitir el fallo de forma abierta.
+* Respuesta rápida: tomar medidas concretas sin demoras.
+* Compensación adecuada: ofrecer algo que satisfaga al cliente.
+
+
+_INFORMACION
+Estrategias efectivas:
+* Disculpa sincera: calma las emociones y muestra interés real por el cliente.
+* Solución rápida: reduce el impacto del problema y transmite eficacia.
+* Seguimiento posterior: verificar que el cliente está satisfecho y ofrecer ayuda adicional si lo necesita.
+
+
+_INFORMACION
+La fidelización del cliente es esencial para el éxito a largo plazo. Los clientes leales:
+* Compran más y con mayor frecuencia.
+* Son menos costosos de mantener que los nuevos.
+* Actúan como promotores de la marca.
+
+
+_INFORMACION
+Estrategias de fidelización:
+* Programas de lealtad: recompensan las compras repetidas.
+* Ofertas personalizadas: basadas en datos y preferencias del cliente.
+* Comunicación proactiva: mantener informados a los clientes con mensajes relevantes.
+* Recogida de feedback: para mejorar productos, servicios y procesos.
+
+
+_INFORMACION
+Integrar recuperación del servicio y fidelización:
+* Convertir la resolución de un problema en una oportunidad para fortalecer la relación.
+* Ofrecer recompensas adicionales (como puntos o descuentos) a clientes que vivieron un problema y quedaron satisfechos con la solución.
+* Mantener comunicación abierta y transparente durante todo el proceso de recuperación.

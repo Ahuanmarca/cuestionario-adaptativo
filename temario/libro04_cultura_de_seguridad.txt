@@ -1,0 +1,428 @@
+﻿_LIBRO
+Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+_CAPITULO
+Introducción
+
+
+_INFORMACION
+Objetivo del Libro Blanco de Cultura de Seguridad Operacional del Grupo Renfe:
+* Presentar la Cultura de Seguridad Operacional revisada que el Grupo Renfe quiere implantar y el Plan de Transformación que la hará posible, con visión alineada con el Plan Estratégico 2019-2023-2028 del Grupo.
+
+
+_INFORMACION
+Seguridad no es sólo normas, también es cómo se interioriza la seguridad a través de creencias, cómo estas condicionan la conducta y la aplicación de normas y procedimientos, utilización de recursos técnicos puestos a disposición de la seguridad.
+
+
+_INFORMACION
+No basta con tener competencias, es necesario también:
+* Creer en la seguridad e incorporarla en nuestros valores.
+* Operar de forma segura
+* Estar alerta a riesgos propios de la operación ferroviaria
+
+
+_INFORMACION
+Han habido cambios en el sector ferroviario, y en particular enn el Grupo Renfe, que demandan una revisión de creencias y valores para reforzar la cultura común en materia de seguridad:
+* Ha cambiado el reparto de responsabilidades
+Seguridad ya no está integrada en una sola empresa, ahora está repartida entre empresas ferroviarias, administradores de infraestructuras o mantenedores, entre otros.
+* Ha cambiado el enfoque de seguridad
+Hemos pasado de basarnos en el cumplimiento de la norma a basarnos en la gestión del riesgo. Gestión anticipativa en la identificación y prevención de situaciones peligrosas.
+* Han cambiado las personas
+        Relevo generacional.
+* Han cambiado las tecnología de la información
+Posibilita gestionar grandes cantidades de datos, permitiendo evolucionar métodos de gestión de los riesgos de la operación ferroviaria.
+* Ha cambiado la legislación aplicable
+El cuarto paquete ferroviario modifica los requerimientos a las empresas ferroviarias de forma sustancial.
+
+
+_LIBRO
+Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+_CAPITULO
+Capítulo 2: Contexto y antecedentes
+
+
+_INFORMACION
+Definición de Cultura Empresarial:
+Conjunto de hábitos, creencias, valores, tradiciones, interacciones y relaciones sociales típicos de cada organización, los cuales representan las normas informales y no escritas que orientan la conducta de los miembros de la organización, en el día a día, y que dan sentido a sus acciones. (Chiavenato, 2005)
+
+
+_INFORMACION
+Características que determinan cultura empresarial de una empresa:
+* La propia experiencia y las relaciones con los compañeros y compañeras
+* El sistema de reconocimientos, recompensas y sanciones que expresa el comportamiento deseado por la organización
+* El ejemplo de los líderes que refleja su compromiso con la organización
+
+
+_INFORMACION
+La cultura empresarial debe ser coherente con la cultura de seguridad. Si no, se impone la más fuerte de ambas.
+
+
+_INFORMACION
+Ventajas de una cultura empresarial coherente con la Cultura de Seguridad:
+* Transmite las señas de identidad de la organización
+* Establece los estándares de comportamiento comúnmente aceptados por la organización
+* Enseña el camino a seguir a los nuevos miembros
+* Cohesiona al grupo en trono a ciertos principios
+* Determina la forma de participación de las personas
+* Motiva a las personas y contribuye al logro de objetivos 
+
+
+_INFORMACION
+Origen de la Cultura de Seguridad: Surge tras analizar sucesos de fines del siglo XX.
+Principales causas que se analizaron de sucesos:
+* Subordinación de la seguridad a la producción
+* Desviación o transgresión sistemática de los procedimientos
+* Insuficiente comunicación
+* Escasa gestión del riesgo y de la mejora continua
+* Bajo nivel de compromiso y liderazgo de las estructuras de dirección
+
+
+_INFORMACION
+Cultura de Seguridad Operacional
+* La parte de la cultura empresarial enfocada en la seguridad de la operación.
+* Tiene el objetivo de facilitar el arraigo de las buenas prácticas y los comportamientos seguros.
+* Es la colección de valores adoptados por las empresas y sus empleados en relación con los riesgos.
+* La Cultura de Seguridad se define por la interdependencia entre los SGS, la comprensión y la conducta.
+
+
+_INFORMACION
+Sistema de Gestión de Seguridad (SGS)
+Es la gestión del conjunto de medidas que establece la epresa para garantizar que sus operaciones sean seguras. El SGS nos dice cómo debemos actuar.
+
+
+_INFORMACION
+El SGS nos dice cómo debemos actuar, pero es la Cultura de Seguridad la que determina nuestro comportamiento final.
+
+
+_INFORMACION
+La Cultura de Seguridad y el SGS impactan simultáneamente en los factores técnicos y organizacionales de la operación ferroviaria.
+El éxito del SGS depende de tener una Cultura de Seguridad fuerte. Si ello, la SGS se convierte en una mera declaración de intenciones, no se ve reflejado en el comportamiento de las personas.
+
+
+_INFORMACION
+Madurez del Sistema de Gestión de Seguridad:
+Compromiso < Planificación < Gestión reactiva < Gestión proactiva < Mejora contínua
+
+
+_LIBRO
+Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+_CAPITULO
+Capítulo 3: Marco regulador europeo de Cultura de Seguridad
+
+
+_INFORMACION
+La normativa asociada al Cuarto Paquete Ferroviario incorpora el Reglamento Delegado (UE) 2028/762 de la Comisión Europea de 8 de marzo de 2018.
+* Establece métodos comunes de seguridad sobre los requisitos del Sistema de Gestión de la Seguridad Ferroviaria
+* Es de obligado cumplimiento desde mediados de 2020
+* Exige como requisito la Cultura de Seguridad
+* …y las evidencias de su existencia
+
+
+_INFORMACION
+Declaración a favor de una Cultura de Seguridad ferroviaria en Europa, de la Agencia Ferroviaria de la UE (ERA)
+8 atributos:
+1. La seguridad como prioridad fundamental
+La seguridad es esencial para la eficacia y fiabilidad del sistema ferroviario y no debe verse comprometida por otros objetivos. Su gestión debe basarse en un enfoque de gestión de riesgos en todas las operaciones.
+2. Promoción de una cultura de seguridad y confianza
+Se fomenta el reporte de eventos y una cultura justa que abarque a empleados, proveedores y contratistas. Se busca el respeto mutuo, la cooperación y una relación de confianza.
+3. Responsabilidad individual y entorno seguro
+La seguridad es una responsabilidad personal basada en formación, experiencia y buenas prácticas. Las organizaciones deben garantizar un entorno adecuado con herramientas y procedimientos seguros.
+4. Gestión de los riesgos de la fiabilidad humana
+A pesar de la capacitación y experiencia, las limitaciones humanas y factores imprevistos pueden generar incidentes. Se deben tomar medidas para mitigar estos riesgos.
+5. Análisis de eventos sin culpabilización
+La investigación de incidentes debe centrarse en entender el sistema y sus condiciones, evitando culpar a individuos, excepto en casos de negligencia grave o actos deliberados que afecten la seguridad.
+6. Fomento de prácticas seguras
+Se deben identificar y compartir buenas prácticas y comportamientos que promuevan la seguridad dentro y fuera de la organización, impulsando la mejora continua.
+7. Participación activa en la mejora de la cultura de seguridad
+Todos los empleados deben contribuir de manera continua a desarrollar, evaluar y fortalecer la cultura de seguridad en la organización.
+8. El sello distintivo de la seguridad positiva es el compromiso compartido de los/las líderes y las personas para actuar siempre con seguridad, especialmente cuando se enfrentan a metas y situaciones que comprometen la seguridad.
+
+
+
+
+
+
+_LIBRO
+Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+_CAPITULO
+Capítulo 4: Cultura de Seguridad del Grupo Renfe
+
+
+_INFORMACION
+La definición de Cultura de Seguridad de Renfe se basa en la del sector de la aviación y la ofrecida por la Agencia Ferroviaria Europea (ERA).
+
+
+_INFORMACION
+La Cultura de Seguridad es resultado de:
+* Lo que creemos o pensamos: creencias y valores arraigados en el grupo u organización, es decir, el núcleo de la Cultura de Seguridad.
+* Lo que decimos sobre la seguridad: recogido en el SGS. Configura las normas y procedimientos que la organización debe conocer y aplicar.
+* Lo que realmente hacemos: Los comportamientos de las personas. Debe ser coherente con lo anterior para generar confianza.
+
+
+_INFORMACION
+Definición de la Agencia Ferroviaria Europea (ERA):
+La interacción entre los requisitos del SGS y cómo las personas los comporenden en función de sus actitudes, valores y creencias que se reflejan en sus comportamientos y decisiones.
+
+
+_INFORMACION
+Principios de Cultura de Seguridad del Grupo Renfe:
+1. Seguridad como valor esencial
+2. Compromiso y liderazgo
+* El liderazgo influye, para bien o para mal, en el comportamiento de los grupos. 
+* El liderazgo en la gestión de los riesgos evidencia nuestro compromiso con la seguridad. 
+* Las personas demuestran en su quehacer diario su compromiso de la seguridad.
+3. Responsabilidad personal
+* Premisa de que la seguridad es una responsabilidad individual.
+* Las personas son proactivas en las gestión de la seguridad.
+4. Apertura y confianza
+* Respeto y cooperación, en un clima de confianza mutua, fomenta la seguridad operacional.
+* Un clima de confianza mutua (estructura de dirección y personal opertativo) favorece la mejora de la seguridad.
+* La organización promueve la confianza en las personas y en su SGS.
+5. Vigilancia de la seguridad
+* La gestión de los riesgos establece sistemas efectivos y continuos de control y vigilancia de la operación para comprobar que esta se realiza de manera segura.
+* La seguridad se puede y se debe medir.
+* La organización utiliza indicadores para valorar el nivel de riesgo.
+6. Aprendizaje y mejora contínua
+* Aprendemos de nuestros resultados y convertimos las lecciones aprendidas en palancas para mejorar la seguridad.
+* La experiencia adquirida permite mejorar el nivel de seguridad.
+* La organización cambia en función de la evolución de los indicadores de seguridad y de las amenazas detectadas.
+
+
+_INFORMACION
+Factores clave para la medición de la Cultura de Seguridad, definidos en el Modelo de Cultura de Seguridad:
+1. Compromiso de los gestores y gestoras
+Actitud del gestor transmite una imagen clara (positiva o negativa) sobre la seguridad.
+2. Colaboración y participación
+Participación de las personas en actividades relacionadas con la seguridad.
+3. Cultura justa y notificación
+Libertad para notificar problemas relativos a la seguridad, incluida la autodenuncia de comportamientos peligrosos y el tratamiento dado a los enfractores/as.
+4. Comunicación y aprendizaje
+Calidad de la información facilitada en materia de seguridad y su utilización para el aprendizaje de la organización.
+5. Gestión de riesgos
+La forma en que se gestionan los riesgos en la operación ferroviaria normal, o cuando se introducen cambios técnicos, operativos o de organización.
+6. Compromiso entre compañeros y compañeras
+Actitudes entre compañeros y compañeras que repercuten en nuestras propias actitudes.
+7. Personal y equipamiento
+Forma en que los recursos se ponen a disposición de la gestión de la seguridad: si son suficientes, si son adecuados y si se utilizan conforma a las prioridades reales.
+8. Procedimiento y formación
+Existencia de procedimientos adecuados. Forma de actuar de los trabajadores y trabajadoras. Formación impartida para entenderlos y aplicarlos.
+
+
+_INFORMACION
+Facilitadores para la implantación de la Cultura de Seguridad
+1. Apoyo y fomento de la seguridad por parte de los/las líderes
+2. Política de comunicación
+3. Política de notificación
+4. Requisitos de seguridad para los servicios y suministros externos
+5. Capacitación de las personas en el desempeño de sus funciones
+6. Distribución de funciones y responsabilidades
+7. Empoderamiento de las personas (autoridad y recursos) para cumplir sus responsabilidades
+8. Gestión de los recursos
+9. Gestión de los riesgos de la operación ferroviaria
+10. Medición y mejora contínua del desempeño
+11. Fomento y mejora del aprendizaje
+12. Sistema de participación de las personas en la seguridad
+13. Política de premiso, sanciones y reconocimientos
+14. Reconocimiento y aplicación de mejores prácticas
+15. Revisión de procesos, procedimientos y sistemas
+
+
+_INFORMACION
+Alcance: Los principios de la Cultura de Seguridad se dirigen a:
+* Todas las personas que trabajan en el Grupo Renfe
+* Otras empresas y sus empleados/as que trabajan para el Grupo Renfe
+* Organismos y grupos de interés, independientemente de la posición que ocupen y de las funciones que desempeñen
+
+
+_LIBRO
+Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+_CAPITULO
+Capítulo 5: Líneas estratégicas para el cambio de Cultura de Seguridad
+
+
+_INFORMACION
+Las líneas estratégicas orientan las actuaciones a realizar.
+1. Refuerzo del compromiso y la responsabilidad con los principios de Cultura de Seguridad a fin de generar comportamientos seguros
+* Propósito de compromiso: Liderazgo en la difusión de los principios de Cultura de Seguridad, el ejemplo a través de las buenas prácticas y la comunicación de los resultados de la seguridad.
+* Propósito de responsabilidad: Revisión de las funciones y responsabilidades de seguridad asignadas a cada puesto de trabajo y su comunicación ya aceptación por parte de los/las profesionales que los desempeñan.
+2. Capacitación de las personas para que puedan afrontar con éxito sus responsabilidades en seguridad
+* Refuerzo de la formación en materia de la gestión de la seguridad, destinada a la estructura de dirección y gestión, cuadros técnicos y mandos intermedios, y personal operativo.
+3. Implicación de toda la organización en la gestión de los riesgos de la operación ferroviaria
+* Implicar a toda la organización en la gestión de los riesgos mediante la participación en el análisis de los riesgos, la notificación de sucesos peligrosos y el cumplimiento de las medidas de mitigación que se deriven.
+4. Mejora de los sistemas de relación con los grupos externos de interés y de la coordinación interna
+* Mejorar la gestión comparativa de riesgos con terceros, subcontratistas y proveedores/as, y reforzar la coordinación entre las distintas áreas del Grupo Renfe.
+5. Vigilancia y digitalización
+* Aportar a la organización mejoras tecnológicas e innovación en los sistemas de información para disponer de mejores indicadores de gestión y vigilancia de la seguridad.
+
+
+
+
+_LIBRO
+Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+_CAPITULO
+Capítulo 6: Plan de Transformación de la Cultura de Seguridad Operacional
+
+
+_INFORMACION
+El objetivo del Plan de Transformación de la Cultura de Seguridad del Grupo Renge es:
+* Actualizar los sistemas de gestión para incluir los facilitadores que permitan alinear las subculturas con la Cultura de Seguridad que se desea.
+
+
+_INFORMACION
+El Plan de Acción debe estar fundado en:
+* Los principios de Cultura de Seguridad
+* Los facilitadores
+* Las líneas estratégicas definidas para el cambio
+Debe estar desarrollado por:
+* Los órganos de gobierno que oportunamente se determinen
+Debe estar dotado de:
+* Un conjunto de indicadores que midan el grado de implantación y la eficacia de las actuaciones establecidas
+
+
+_INFORMACION
+Ciclo de mejora continua
+* Debe tener periodicidad anual
+* Proceso iterativo de ciclos
+* Evalúa la madurez y solidez de la Cultura de Seguridad durante el Plan de Transformación
+* Cada ciclo consta de 4 fases:
+   * Fase 1: Análisis de la cultura
+   * Fase 2: Diagnóstico de la cultura
+   * Fase 3: Planificación de mejoras
+   * Fase 4: Implantación de actividades
+
+
+_INFORMACION
+Fases del ciclo de mejora contínua de la Cultura de Seguridad:
+1.  Análisis de la cultura: Al iniciar cada ciclo se realizará una valoración de la Cultura de Seguridad existente.
+2. Diagnóstico de la cultura
+3. Planificación de mejoras
+4. Implantación de actividades
+
+
+_INFORMACION
+Herramientas cualitativas del análisis de la cultura de seguridad:
+* Encuestas de clima de seguridad que tratan de identificar las creencias, los valores y las percepciones de seguridad.
+* Se valoran las creencias propias y la percepción de las que tienen otros grupos
+* Entrevistas semiestructuradas
+* Grupos de discusión
+
+
+_INFORMACION
+La medición cualitativa del análisis de la cultura de seguridad se debe realizar sobre 4 colectivos:
+* Personal de dirección con funciones directas de seguridad
+* Personal de apoyo (agrupa los colectivos de mandos intermedios, técnicos/as, supervisores/as y operarios/as)
+* Personal de conducción
+* Personal sin funciones directas de seguridad
+
+
+_INFORMACION
+Herramientas cuantitativas del análisis de la cultura de seguridad:
+Se obtienen de:
+* Los datos sobre sucesos que pueden producir incidentes significativos de seguridad.
+* De las observaciones de los comportamientos de las personas en su quehacer diario.
+* Es fundamental la definición de indicadores y la veracidad y fiabilidad de los datos.
+* Ejemplos de indicadores cuantitativos:
+* Número de sucesos registrados y analizados
+* Número de notificaciones recibidas y respondidas
+* Número de revisiones y actualizaciones de los procedimientos
+* Número de acciones formativas de liderazgo
+
+
+_INFORMACION
+El Diagnóstico de la cultura de seguridad debe evidenciar:
+* La percepción que tiene todo el personal de esa organización en lo que atañe a las cuestiones de seguridad.
+* La integración de las creencias en las prácticas cotidianas desde la dirección hasta el personal que está en la operación ferroviaria.
+
+
+_INFORMACION
+El Diagnóstico de la cultura de seguridad debe permitir:
+* Visibilizar lo que se pienta: atañe a las creencias, percepciones y convicciones
+* Saber qué se hace, explicando las prácticas  comportamientos de seguridad, las dificultades encontradas, las desviaciones con respecto a lo prescrito.
+* Analizar la coherencia y la correspondencia entre lo que se piensa y lo que se hace.
+* Poner en evidencia los mecanismos sobre los cuales se ha de actuar.
+* Definir los indicadores que permitan comparar y medir.
+
+
+_INFORMACION
+Las conclusiones del diagnóstico deben proporcionar la suficiente información para permitir desarrollar un Plan de Acción que contribuya a la mejora de la Cultura de Seguridad (fase 2 del ciclo de mejora continua de la Cultura de Seguridad).
+
+
+_INFORMACION
+Una vez establecido el diagnóstico, se deben definir las diferentes acciones de refuerzo. Estas acciones se deben agrupar por áreas asociadas a las lineas estratégicas descritas. Las acciones deben disponer de indicadores asociados que permitan medir el grado de implantación y el grado de desempeño de las mismas.
+
+
+_INFORMACION
+FASE 4: Implantación de actividades
+* Se ejecutan medidas planificadas y se hace seguimiento.
+* En caso de observar desviaciones, se procede a corregirlas.
+* Esta fase se prolonga hasta el inicio del siguiente ciclo.
+
+
+_INFORMACION
+Durante la implantación se puede encontrar resistencia al cambio debido a:
+* Temores ante las innovaciones en la organización
+* Errores en el empleo de las nuevas metodologías
+* Aversiones actitudinales y de comportamiento
+* Falta de copromiso de la dirección y de los líderes
+* Escasa participación de los empleados y empleadas
+
+
+_INFORMACION
+Una incorrecta definición de los elementos y objetivos del cambio, un diseño inadecuado del plan, una insuficiente coordinación entre los niveles directivos de la organización o la falta de experiences de la implantación y dirección del cambio, son barreras que se deben considerar.
+
+
+
+
+
+
+_LIBRO
+Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+_CAPITULO
+Capítulo 7: Consideraciones finales
+
+
+_INFORMACION
+Debemos estar atentos a la aparición de resistencias al cambio.
+Para superar las resistencias al cambio y alcanzar la Cultura de Seguridad deseada, debemos garantizar:
+* Un ejercicio efectivo de liderazgo
+* Una distribución de las funciones y competencias de seguridad
+* Especialistas capacitados para la gestión de los riesgos
+* Una vigilancia efectiva a través de indicadores de implantación y eficacia
+
+
+_INFORMACION
+La carencia o insuficiencia de alguna de estas acciones son síntomas de un débil proceso de cambio debido a la propia resistencia de la organización, generando el efecto contrario, una Cultura de Seguridad negativa que puede conllevar al incumplimiento de los requerimientos legislativos y al origen de errores latentes que terminen desencadenando accidentes.
+
+
+_INFORMACION
+Un ejercicio efectivo de liderazgo, tanto directivo como operativo.
+Posibles resistencias: falta de capacitación o desinterés para asumir las responsabilidades en materia de seguridad.
+Medidas: formación y motivación de las personas.
+Resultados deseados: un comportamiento ejemplarizante acorde con las responsabilidades de seguridad a todos los niveles de la organización, especialmente, del personal directivo en la gestión de los recursos y en la organización.
+
+
+_INFORMACION
+Una distribución de las funciones y competencias de seguridad en todos los niveles de la organización.
+Posibles resistencias: dificultades en la asignación de funciones de seguridad por la complejidad y tamaño organizativo del Grupo.
+Medidas: sistematización de la gestión de funciones y competencias de los puestos de trabajo con requisitos de seguridad.
+Resultados deseados: el personal conoce sus funcione en materia de seguridad y las desempeña satisfactoriamente. Este aspecto se ha evidenciado relevante en el contexto de cambios organizativos en áreas con competencias en seguridad operacional.
+
+
+_INFORMACION
+Especialistas capacitados para la gestión de los riesgos
+Posibles resistencias: falta de conocimientos en gestión de riesgos e incomodidad en la toma de decisiones relativas a la seguridad.
+Medidas: apoyo de los líderes a los/as especialistas en gestión de riesgos (formación, recursos y respeto a sus decisiones).
+Resultados deseados: existe un colectivo de técnicos/as especialistas qualificados para la evaluación, valoración, implantación y seguimiento de las amenazas y sus medidas mitigadoras, capaces de aplicar y gestionar la normativa comunitaria de obligado cumplimiento. Los cambios que impactan en la seguridad son analizados y tratados por este colectivo, especialmente, en el caso de cambios organizativos sucesivos en periodos temporales cortos.
+
+
+_INFORMACION
+Una vigilancia efectiva a través de indicadores de implantación y eficacia
+Posibles resistencias: falta de capacidad para la definicion y gestión de indicadores, menosprecio hacia la recogida de datos y la importancia de los indicadores que se obtienen de esos datos, dificultad en la obtención de indicadores por la falta de integración entre las aplicaciones de gestión y las fuentes de información relacionadas con la operación y su vigilancia, falta de fuentes de información útiles, falta de confianza en los indicadores, obstrucción de la información necesaria para realizar el control de su desempeño profesional y bloqueo de los canales de información para convertirse en fuente de consulta imprescindible.
+Medidas: estrategia de digitalización de sistemas de información orientada a la seguridad. Los/las líderes gestionan a partir de cuadros de mando de seguridad. Evidenciar las bondades de la gestión por indicadores.
+Resultados deseados: existen indicadores de vigilancia adecuados y se controla su evolución, de modo que se detectan y corrigen las situaciones de riesgo, tanto a nivel del SGS como de la operación ferroviaria.
+
+
+_INFORMACION
+Ideas de la cita de Organización de Aviación Civil Internacional, del 2009:
+* Centralización excesiva de la seguridad operacional: En muchas organizaciones, la oficina de seguridad gestionaba todo el proceso, desde la detección de problemas hasta la implementación y seguimiento de soluciones.
+* Falta de involucramiento de directivos operativos: Esta estructura excluía a los ejecutivos y gerentes de línea del proceso de toma de decisiones en seguridad, generando una percepción errónea de que no era su responsabilidad.
+* Pérdida de aportes valiosos: Al centrarse solo en la oficina de seguridad, se desaprovechaban las contribuciones importantes de las unidades de producción y operaciones, lo cual debilitaba el enfoque global de la seguridad operacional.
