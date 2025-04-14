@@ -92,8 +92,7 @@ Empresa representativa: Starbucks.
 
 
 
-_LIBRO
-Nociones básicas de Experiencia de Cliente
+
 _CAPITULO
 Fundamentos de la Experiencia de Cliente
 
@@ -192,8 +191,7 @@ Resolución de problemas (factor que influye en la Experiencia de Cliente)
 
 
 
-_LIBRO
-Nociones básicas de Experiencia de Cliente
+
 _CAPITULO
 Diseño y Gestión de la Experiencia de Cliente
 
@@ -401,8 +399,7 @@ Estas herramientas permiten:
 
 
  
-_LIBRO
-Nociones básicas de Experiencia de Cliente
+
 _CAPITULO
 Cultura de servicio y Orientación al cliente
 
@@ -469,8 +466,7 @@ Elementos interpersonales y comunicativos, englobados dentro de las habilidades 
 * Buena imagen
 
 
-_LIBRO
-Nociones básicas de Experiencia de Cliente
+
 _CAPITULO
 Experiencia de Cliente Digital
 
@@ -551,8 +547,7 @@ La personalización basada en datos permite a las empresas ofrecer experiencias 
 
 
 
-_LIBRO
-Nociones básicas de Experiencia de Cliente
+
 _CAPITULO
 Resolución de problemas y fidelización del cliente
 

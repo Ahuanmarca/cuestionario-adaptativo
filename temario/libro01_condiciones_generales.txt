@@ -1,5 +1,6 @@
 ﻿_LIBRO
 Condiciones Generales
+
 _CAPITULO
 Título Preliminar
 
@@ -42,8 +43,7 @@ _INFORMACION
 En Trenes Turísticos de Renfe Viajeros serán de aplicación sus propias Condiciones Generales de Contratación. Para lo no previsto en las mismas, las presentes Condiciones Generales, en lo que pueda ser aplicable.
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Servicios de Transporte Ferroviario
 
@@ -131,8 +131,7 @@ Estos servicios de Renfe Viajeros sometidos a obligaciones de servicio público 
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Contrato de Transporte
 
@@ -393,8 +392,7 @@ Solo se admiten las anulaciones de títulos de Cercanías en el momento de la co
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Ocupación de la Plaza
 
@@ -495,8 +493,7 @@ _INFORMACION
 Los Títulos Multiviaje y los emitidos por los Consorcios de Transporte o asimilados no admiten prolongación del recorrido fuera del Núcleo.
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Condiciones de Viaje para Menores
 
@@ -519,8 +516,7 @@ En determinados trenes, Renfe ofrece un servicio para que los menores de edad pu
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Condiciones para Personas con Discapacidad y Movilidad Reducida
 
@@ -539,8 +535,7 @@ Para determinados trenes, servicios y estaciones está disponible el denominado 
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Servicios Complementarios
 
@@ -613,8 +608,7 @@ Los objetos olvidados, perdidos o abandonados por los clientes, que sean hallado
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Responsabilidad de Renfe Viajeros
 
@@ -730,8 +724,7 @@ Los transbordos con otros medios de transporte o trenes de distintas compañías
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Protección de Datos de Carácter Personal
 
@@ -742,8 +735,7 @@ La información relativa al tratamiento y a la protección de los datos personal
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Entrada en Vigor
 
@@ -768,8 +760,7 @@ Modificaciones de la versión 2 de las Condiciones Generales, entradas en vigor 
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Información de Contacto
 

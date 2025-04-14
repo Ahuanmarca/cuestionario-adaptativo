@@ -34,8 +34,7 @@ Posibilita gestionar grandes cantidades de datos, permitiendo evolucionar métod
 El cuarto paquete ferroviario modifica los requerimientos a las empresas ferroviarias de forma sustancial.
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 2: Contexto y antecedentes
 
@@ -103,8 +102,7 @@ Madurez del Sistema de Gestión de Seguridad:
 Compromiso < Planificación < Gestión reactiva < Gestión proactiva < Mejora contínua
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 3: Marco regulador europeo de Cultura de Seguridad
 
@@ -141,8 +139,7 @@ Todos los empleados deben contribuir de manera continua a desarrollar, evaluar y
 
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 4: Cultura de Seguridad del Grupo Renfe
 
@@ -233,8 +230,7 @@ Alcance: Los principios de la Cultura de Seguridad se dirigen a:
 * Organismos y grupos de interés, independientemente de la posición que ocupen y de las funciones que desempeñen
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 5: Líneas estratégicas para el cambio de Cultura de Seguridad
 
@@ -256,8 +252,7 @@ Las líneas estratégicas orientan las actuaciones a realizar.
 
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 6: Plan de Transformación de la Cultura de Seguridad Operacional
 
@@ -374,8 +369,7 @@ Una incorrecta definición de los elementos y objetivos del cambio, un diseño i
 
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 7: Consideraciones finales
 

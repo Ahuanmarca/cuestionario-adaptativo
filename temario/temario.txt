@@ -1,5 +1,6 @@
 _LIBRO
 Condiciones Generales
+
 _CAPITULO
 Título Preliminar
 
@@ -42,8 +43,7 @@ _INFORMACION
 En Trenes Turísticos de Renfe Viajeros serán de aplicación sus propias Condiciones Generales de Contratación. Para lo no previsto en las mismas, las presentes Condiciones Generales, en lo que pueda ser aplicable.
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Servicios de Transporte Ferroviario
 
@@ -131,8 +131,7 @@ Estos servicios de Renfe Viajeros sometidos a obligaciones de servicio público 
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Contrato de Transporte
 
@@ -393,8 +392,7 @@ Solo se admiten las anulaciones de títulos de Cercanías en el momento de la co
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Ocupación de la Plaza
 
@@ -495,8 +493,7 @@ _INFORMACION
 Los Títulos Multiviaje y los emitidos por los Consorcios de Transporte o asimilados no admiten prolongación del recorrido fuera del Núcleo.
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Condiciones de Viaje para Menores
 
@@ -519,8 +516,7 @@ En determinados trenes, Renfe ofrece un servicio para que los menores de edad pu
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Condiciones para Personas con Discapacidad y Movilidad Reducida
 
@@ -539,8 +535,7 @@ Para determinados trenes, servicios y estaciones está disponible el denominado 
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Servicios Complementarios
 
@@ -613,8 +608,7 @@ Los objetos olvidados, perdidos o abandonados por los clientes, que sean hallado
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Responsabilidad de Renfe Viajeros
 
@@ -730,8 +724,7 @@ Los transbordos con otros medios de transporte o trenes de distintas compañías
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Protección de Datos de Carácter Personal
 
@@ -742,8 +735,7 @@ La información relativa al tratamiento y a la protección de los datos personal
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Entrada en Vigor
 
@@ -768,8 +760,7 @@ Modificaciones de la versión 2 de las Condiciones Generales, entradas en vigor 
 
 
 
-_LIBRO
-Condiciones Generales
+
 _CAPITULO
 Información de Contacto
 
@@ -793,6 +784,7 @@ Ministerio de Transportes, Movilidad y Agenda Urbana: Su página web es www.mitm
 _INFORMACION
 La plagina web de las Juntas Arbitrales del Transporte es:
 https://www.mitma.es/el-ministerio/contacte-con-fomento/transporte-terrestre/juntas-arbitrales
+
 
 
 
@@ -832,8 +824,7 @@ Posibilita gestionar grandes cantidades de datos, permitiendo evolucionar métod
 El cuarto paquete ferroviario modifica los requerimientos a las empresas ferroviarias de forma sustancial.
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 2: Contexto y antecedentes
 
@@ -901,8 +892,7 @@ Madurez del Sistema de Gestión de Seguridad:
 Compromiso < Planificación < Gestión reactiva < Gestión proactiva < Mejora contínua
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 3: Marco regulador europeo de Cultura de Seguridad
 
@@ -939,8 +929,7 @@ Todos los empleados deben contribuir de manera continua a desarrollar, evaluar y
 
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 4: Cultura de Seguridad del Grupo Renfe
 
@@ -1031,8 +1020,7 @@ Alcance: Los principios de la Cultura de Seguridad se dirigen a:
 * Organismos y grupos de interés, independientemente de la posición que ocupen y de las funciones que desempeñen
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 5: Líneas estratégicas para el cambio de Cultura de Seguridad
 
@@ -1054,8 +1042,7 @@ Las líneas estratégicas orientan las actuaciones a realizar.
 
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 6: Plan de Transformación de la Cultura de Seguridad Operacional
 
@@ -1172,8 +1159,7 @@ Una incorrecta definición de los elementos y objetivos del cambio, un diseño i
 
 
 
-_LIBRO
-Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
 _CAPITULO
 Capítulo 7: Consideraciones finales
 
@@ -1320,8 +1306,7 @@ Empresa representativa: Starbucks.
 
 
 
-_LIBRO
-Nociones básicas de Experiencia de Cliente
+
 _CAPITULO
 Fundamentos de la Experiencia de Cliente
 
@@ -1420,8 +1405,7 @@ Resolución de problemas (factor que influye en la Experiencia de Cliente)
 
 
 
-_LIBRO
-Nociones básicas de Experiencia de Cliente
+
 _CAPITULO
 Diseño y Gestión de la Experiencia de Cliente
 
@@ -1629,8 +1613,7 @@ Estas herramientas permiten:
 
 
  
-_LIBRO
-Nociones básicas de Experiencia de Cliente
+
 _CAPITULO
 Cultura de servicio y Orientación al cliente
 
@@ -1697,8 +1680,7 @@ Elementos interpersonales y comunicativos, englobados dentro de las habilidades 
 * Buena imagen
 
 
-_LIBRO
-Nociones básicas de Experiencia de Cliente
+
 _CAPITULO
 Experiencia de Cliente Digital
 
@@ -1779,8 +1761,7 @@ La personalización basada en datos permite a las empresas ofrecer experiencias 
 
 
 
-_LIBRO
-Nociones básicas de Experiencia de Cliente
+
 _CAPITULO
 Resolución de problemas y fidelización del cliente
 
@@ -1898,4 +1879,5 @@ Integrar recuperación del servicio y fidelización:
 * Convertir la resolución de un problema en una oportunidad para fortalecer la relación.
 * Ofrecer recompensas adicionales (como puntos o descuentos) a clientes que vivieron un problema y quedaron satisfechos con la solución.
 * Mantener comunicación abierta y transparente durante todo el proceso de recuperación.
+
 

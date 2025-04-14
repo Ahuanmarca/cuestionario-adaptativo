@@ -48,4 +48,4 @@ htmlcov/
 # --- 🔒 Secretos (si usas dotenv) ---
 .env
 .env.*
-.stash
+stash/
