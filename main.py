@@ -1,4 +1,4 @@
-from scripts import script01_preparar as script01
+from scripts import script010_preparar as script01
 
 def main():
     with open("temario/temario.txt", "r", encoding="utf-8") as f:
