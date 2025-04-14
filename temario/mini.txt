@@ -1,0 +1,63 @@
+_LIBRO
+Condiciones Generales
+
+_CAPITULO
+Servicios de Transporte Ferroviario
+
+_INFORMACION
+Renfe Viajeros tiene por objeto social:
+* La prestación de servicios de transporte de viajeros por ferrocarril, tanto nacional como internacional.
+* La mediación en la prestación de cualesquiera servicios turísticos.
+* La organización, oferta y/o comercialización de viajes combinados o productos turísticos.
+* La prestación de otros servicios o actividades complementarias o vinculadas al transporte ferroviario.
+
+_CAPITULO
+Contrato de Transporte
+
+_INFORMACION
+El título de transporte de los servicios con asignación de plaza deberá incluir la siguiente información:
+   * La determinación de la empresa ferroviaria que realizará el transporte.
+   * El origen del viaje y la hora de salida.
+   * El destino del viaje y la hora de llegada.
+   * Identificar número de tren.
+   * Los transbordos que pudieran producirse con cambio de tren, especificando lugar y hora, en su caso.
+   * El coche, la clase o tipo de asiento y el número de plaza.
+   * En su caso, el tipo de prestación de restauración en la plaza.
+   * El peso y volumen del equipaje admitido, o la indicación de dónde se puede consultar dicha información.
+   * El precio total del transporte, incluidos los complementos adicionales al transporte, los gastos de gestión si los hubiere, así como la forma de pago.
+   * El precio de facturación, en su caso, del equipaje.
+   * La información sobre los seguros u otros afianzamientos mercantiles que el servicio tenga cubiertos.
+   * La hora límite, si la hubiere, de presentación en los controles de seguridad para el acceso al tren, si el administrador de infraestructuras lo estableciera.
+   * Indicación de que el transporte queda sometido a las Reglas Uniformes relativas al contrato de transporte internacional de viajeros y equipajes por ferrocarril (CIV).
+
+_LIBRO
+Libro Blanco de la Cultura de Seguridad del Grupo Renfe
+
+_CAPITULO
+Capítulo 2: Contexto y antecedentes
+
+_INFORMACION
+Cultura de Seguridad Operacional
+* La parte de la cultura empresarial enfocada en la seguridad de la operación.
+* Tiene el objetivo de facilitar el arraigo de las buenas prácticas y los comportamientos seguros.
+* Es la colección de valores adoptados por las empresas y sus empleados en relación con los riesgos.
+* La Cultura de Seguridad se define por la interdependencia entre los SGS, la comprensión y la conducta.
+
+_INFORMACION
+La Cultura de Seguridad y el SGS impactan simultáneamente en los factores técnicos y organizacionales de la operación ferroviaria.
+El éxito del SGS depende de tener una Cultura de Seguridad fuerte. Si ello, la SGS se convierte en una mera declaración de intenciones, no se ve reflejado en el comportamiento de las personas.
+
+_LIBRO
+Nociones básicas de Experiencia de Cliente
+_CAPITULO
+Introducción a la Experiencia de Cliente
+
+_INFORMACION
+La Experiencia de Cliente es el conjunto de percepciones, emociones y sensaciones que una persona experimenta en todas las interacciones con una empresa, durante todo el ciclo de vida de su relación.
+La Experiencia de Cliente implica aspectos emocionales, como la satisfacción, la confianza y la conexión emocional con la marca, así como aspectos prácticos, como la calidad del producto, la eficiencia del servicio y la facilidad de uso.
+La Experiencia de Cliente implica un enfoque más estratégico y a largo plazo, busca construir relaciones sólidas y duraderas con los clientes y generar lealtad.
+
+_INFORMACION
+2010 - Era del cliente
+Atención sin precedentes a las demandas y expectativas de los consumidores. 
+Empresas representativas: Macy's, Salesforce y Amazon, que priorizaron la satisfacción del cliente como principio rector de sus operaciones. Esta época se destacó por la importancia de la Experiencia de Cliente y la creación de relaciones duraderas, donde las empresas se esforzaron por comprender y anticipar las necesidades de sus clientes, construyendo una reputación basada en la confianza y la lealtad.
