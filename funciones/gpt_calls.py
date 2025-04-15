@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 load_dotenv()
 client = openai.OpenAI()
 
-
 def generar_pregunta(texto: str) -> str:
     """
     Genera una pregunta de opción múltiple y un puntaje de cobertura a partir de un bloque de información.
@@ -38,6 +37,11 @@ TEXTO:
 
     response = client.chat.completions.create(
         model="chatgpt-4o-latest",
+        # model="gpt-3.5-turbo",
+        # model="gpt-4",
+        # model="gpt-4-0125-preview",
+        # model="gpt-4-turbo",
+        # model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": "Eres un experto en redacción de preguntas de examen"},
             {"role": "user", "content": prompt}
@@ -46,7 +50,4 @@ TEXTO:
     )
 
     pregunta = response.choices[0].message.content.strip()
-    # print("\n\n")
-    # print(pregunta)
-    # print("\n\n")
     return pregunta
