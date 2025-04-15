@@ -61,3 +61,37 @@ def extraer_fragmento(texto: str, delimitador: str) -> str:
             contenido.append(linea)
 
     return "\n".join(contenido).strip()
+
+def actualizar_valor(texto: str, etiqueta: str, nuevo_valor: str) -> str:
+    """
+    Reemplaza el valor asociado a una etiqueta específica en un texto multilínea.
+    La etiqueta debe estar sola en una línea, y el valor asociado son las líneas
+    que siguen hasta la próxima etiqueta (otra línea que comience con "_").
+
+    Args:
+        texto (str): Texto estructurado con etiquetas tipo "_ETIQUETA\nvalor".
+        etiqueta (str): La etiqueta que se desea actualizar (ej. "_COBERTURA").
+        nuevo_valor (str): El nuevo valor que se insertará debajo de la etiqueta.
+
+    Returns:
+        str: El texto con el valor reemplazado.
+    """
+    lineas = texto.splitlines()
+    resultado = []
+    i = 0
+    while i < len(lineas):
+        linea = lineas[i]
+        resultado.append(linea)
+
+        if linea.strip() == etiqueta:
+            i += 1  # saltar a la línea siguiente, que será reemplazada
+            # eliminar todas las líneas del valor actual
+            while i < len(lineas) and not lineas[i].startswith("_"):
+                i += 1
+            # insertar el nuevo valor (puede ser multilínea)
+            resultado.extend(nuevo_valor.splitlines())
+            continue
+
+        i += 1
+
+    return "\n".join(resultado)
