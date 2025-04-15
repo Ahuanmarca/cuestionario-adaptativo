@@ -1,19 +1,28 @@
 # test_funciones.py
-from funciones.parser import obtener_informacion
+from funciones.parser import extraer_fragmento
+from funciones.parser import actualizar_valor
 
-bloque_ejemplo = """
-_LIBRO
+texto = """_LIBRO
 Condiciones Generales
 _CAPITULO
 Título Preliminar
 _INFORMACION
-* hello, word
+* hello, world
 * i took cs50
-"""
+_PREGUNTA
+¿Who took cs50?"""
 
-info_extraida = obtener_informacion(bloque_ejemplo)
+fragmento = extraer_fragmento(texto, "_INFORMACION")
+valor_actualizado = actualizar_valor(texto, "_INFORMACION", "Esta información fue editada.")
 
-print("RESULTADO:")
-print("==========")
-print(info_extraida)
-print("==========")
+print("\n")
+print("==== texto original ===")
+print(texto)
+print("\n")
+print("==== extraer_fragmento(texto, '_INFORMACION') ===")
+print(fragmento)
+print("\n")
+print("==== actualizar_valor(texto, '_INFORMACION', 'Esta información fue editada.') ===")
+print(valor_actualizado)
+print("====")
+print("\n")
