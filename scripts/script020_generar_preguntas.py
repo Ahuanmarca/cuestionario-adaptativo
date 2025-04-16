@@ -1,8 +1,8 @@
-from funciones.parser import separar_bloques
-from funciones.parser import extraer_fragmento
-from funciones.parser import actualizar_valor
+from config import MODELO_ACTUAL
+from tqdm import tqdm
+from funciones.parser import separar_bloques, extraer_fragmento, actualizar_valor
 from funciones.gpt_calls import generar_pregunta
-
+from funciones.utils import estimar_costo
 
 def generar_estructura(pregunta: str, respuesta: str, falsas: str) -> str:
     estructura = f"""_PREGUNTA
@@ -23,11 +23,15 @@ False"""
 
 def main(texto: str) -> str:
 
+    if not estimar_costo(texto, modelo=MODELO_ACTUAL):
+        print("Operación cancelada.")
+        return "=== ⛔ Llamada a GPT cancelada ==="
+
     salida_arr = []
     bloques_informacion = separar_bloques(texto, "_LIBRO")
-    for bloque in bloques_informacion:
+    for bloque in tqdm(bloques_informacion, desc="Generando preguntas", unit="bloque"):
         informacion = extraer_fragmento(bloque, "_INFORMACION")
-        pregunta_generada = generar_pregunta(informacion)
+        pregunta_generada = generar_pregunta(informacion, MODELO_ACTUAL)
 
         pregunta = extraer_fragmento(pregunta_generada, "_PREGUNTA")
         respuesta_correcta = extraer_fragmento(pregunta_generada, "_RESPUESTA_CORRECTA")
