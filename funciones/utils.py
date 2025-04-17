@@ -1,6 +1,7 @@
 
 from config import COSTO_MODELOS, TOKENS_POR_BLOQUE
 from funciones.parser import separar_bloques
+import re
 
 # TODO: Hacer esta función más reutilizable.
 # Actualmente funciona únicamente para separar bloques por "_LIBRO", con una única lógica.
@@ -36,3 +37,66 @@ def estimar_costo(texto: str, modelo: str = None) -> bool:
 
     continuar = input("¿Deseas continuar? (s/n): ").strip().lower()
     return continuar == "s" or continuar == "y"
+
+
+def validar_pregunta(texto: str) -> bool:
+    """
+    Verifica si un bloque de texto cumple con la estructura esperada:
+    _PREGUNTA seguido de 1 línea
+    _RESPUESTA_CORRECTA seguido de 1 línea
+    _RESPUESTAS_FALSAS seguido de 3 líneas (no vacías)
+    _COBERTURA seguido de 1 número entre 0 y 100
+    """
+    # Limpiar saltos vacíos al inicio y al final
+    lineas = texto.strip().splitlines()
+
+    # Eliminar líneas vacías intermedias
+    lineas = [linea.strip() for linea in lineas if linea.strip() != ""]
+
+    i = 0
+    try:
+        # _PREGUNTA
+        if lineas[i] != "_PREGUNTA":
+            return False
+        i += 1
+        if i >= len(lineas) or lineas[i].startswith("_"):
+            return False
+        i += 1
+
+        # _RESPUESTA_CORRECTA
+        if lineas[i] != "_RESPUESTA_CORRECTA":
+            return False
+        i += 1
+        if i >= len(lineas) or lineas[i].startswith("_"):
+            return False
+        i += 1
+
+        # _RESPUESTAS_FALSAS
+        if lineas[i] != "_RESPUESTAS_FALSAS":
+            return False
+        i += 1
+
+        falsas = []
+        while i < len(lineas) and not lineas[i].startswith("_") and len(falsas) < 3:
+            if lineas[i].strip() != "":
+                falsas.append(lineas[i])
+            i += 1
+        if len(falsas) != 3:
+            return False
+
+        # _COBERTURA
+        if i >= len(lineas) or lineas[i] != "_COBERTURA":
+            return False
+        i += 1
+        if i >= len(lineas):
+            return False
+        cobertura = lineas[i]
+        if not re.fullmatch(r"\d{1,3}", cobertura):
+            return False
+        cobertura_num = int(cobertura)
+        if not (0 <= cobertura_num <= 100):
+            return False
+
+        return True
+    except IndexError:
+        return False
