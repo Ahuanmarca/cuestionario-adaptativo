@@ -36,12 +36,6 @@ TEXTO:
 """
 
     response = client.chat.completions.create(
-        # model="chatgpt-4o-latest",
-        # model="gpt-3.5-turbo",
-        # model="gpt-4",
-        # model="gpt-4-0125-preview",
-        # model="gpt-4-turbo",
-        # model="gpt-4o-mini",
         model=modelo,
         messages=[
             {"role": "system", "content": "Eres un experto en redacción de preguntas de examen"},

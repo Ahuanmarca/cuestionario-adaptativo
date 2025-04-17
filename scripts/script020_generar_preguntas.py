@@ -2,7 +2,8 @@ from config import MODELO_ACTUAL
 from tqdm import tqdm
 from funciones.parser import separar_bloques, extraer_fragmento, actualizar_valor
 from funciones.gpt_calls import generar_pregunta
-from funciones.utils import estimar_costo
+from funciones.utils import estimar_costo, validar_pregunta
+
 
 def generar_estructura(pregunta: str, respuesta: str, falsas: str) -> str:
     estructura = f"""_PREGUNTA
@@ -41,7 +42,11 @@ def main(texto: str) -> str:
         estructura = generar_estructura(pregunta, respuesta_correcta, respuestas_falsas)
         bloque_actualizado = actualizar_valor(bloque, "_COBERTURA", cobertura)
 
-        salida_arr.append(bloque_actualizado + "\n\n" + estructura)
+        if validar_pregunta(pregunta_generada):
+            salida_arr.append(bloque_actualizado + "\n\n" + estructura)
+        else:
+            advertencia = "=== TO FIX: Pregunta generada ==="
+            salida_arr.append(bloque_actualizado + "\n\n" + advertencia + "\n\n" + estructura)
 
     salida = "\n\n".join(salida_arr)
     return salida
