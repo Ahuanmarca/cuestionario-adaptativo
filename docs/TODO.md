@@ -6,18 +6,17 @@
 [x] no causar error cuando usuario cancela generar_preguntas
 [x] poner variables globales en config.py
 [x] ¡probar script con temario.txt! - 16-04-2025
-
 [x] comprobar respuesta de GPT al generar preguntas
-[ ] mejorar prompt para tener más consistencia en el formato de las respuestas
 
-[ ] tests con pytest para scripts
-[ ] en tests de código que llame a GPT, usar mock calls
+## Lo mínimo para que sea utilizable (a partir de lo que tenemos)
+[ ] **Enviar contexto necesario a GPT** para que sepa de qué tema estamos hablando (para que no genere, por ejemplo, preguntas sobre aviones).
+[ ] **Mejorar la calidad de las preguntas y las opciones de respuesta**. Creo que esto sólo es posible usando un mejor modelo.
+[ ] Mejorar consistencia del formato de preguntas generadas (quizá se arregle al usar mejor modelo).
+[ ] **Tener completo el "temario.txt"**, con bloques de información sacados del temario en pdf.
+[ ] **Implementar funcionalidad de Quiz** que haga mejoras con interacción del usuario.
 
-[ ] tener todos los modelos relevantes como opciones, con sus precios
-    # model="chatgpt-4o-latest",
-    # model="gpt-3.5-turbo",
-    # model="gpt-4",
-    # model="gpt-4-0125-preview",
-    # model="gpt-4-turbo",
-    # model="gpt-4o-mini",
-
+## Lo que debería tener en el mundo real
+* Una interfaz con buena usabilidad.
+* Generar las preguntas a partir del temario crudo.
+* Guardar progreso en base de datos en la nube.
+* Algunas opciones de uso. Por lo menos: poder repetir cuestionarios, elegir temas.
