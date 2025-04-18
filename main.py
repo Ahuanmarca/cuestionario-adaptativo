@@ -10,7 +10,7 @@ def main():
         description="Aplicación de cuestionario adaptativo"
     )
     parser.add_argument(
-        "accion", choices=["preparar", "generar"], help="Acción a ejecutar"
+        "accion", choices=["quiz", "generar"], help="Acción a ejecutar"
     )
     args = parser.parse_args()
 
